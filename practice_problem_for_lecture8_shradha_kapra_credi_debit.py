@@ -19,3 +19,4 @@ s1.get_balance()
 credit=int(input("enter the amount you want to credit:"))
 s1.credit_bal(credit)
 s1.get_balance()
+#just shifting this file above readme
